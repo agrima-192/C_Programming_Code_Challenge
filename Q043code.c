@@ -1,7 +1,6 @@
 //Program to check if a number is a strong number.
 #include <stdio.h>
 
-// Function to calculate factorial
 int factorial(int n) {
     int fact = 1;
     for (int i = 1; i <= n; i++) {
@@ -32,3 +31,4 @@ int main() {
     
     return 0;
 }
+
