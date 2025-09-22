@@ -1,4 +1,4 @@
-//Write a program to print the following pattern:
+//Program to print the following pattern:
 /*5
 45
 345
@@ -21,3 +21,4 @@ int main() {
 
     return 0;
 }
+
